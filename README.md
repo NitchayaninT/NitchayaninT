@@ -1,7 +1,6 @@
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=2800&color=C3A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=180&lines=Hi!+I'm+Ruby;a+computer+engineering+student;%26+junior+pentester"
-    width="70%"
   />
 </div>
 
