@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=3000&pause=100&color=C3A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=200&lines=Hi!+I'm+Ruby;a+computer+engineering+student;%26+junior+pentester"
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=3200&pause=100&color=C3A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=180&lines=Hi!+I'm+Ruby;a+computer+engineering+student;%26+junior+pentester"
     width="70%"
   />
 </div>
@@ -15,7 +15,8 @@
 <br> 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/vAK4R35tFc2A6oiplJ/giphy.gif"  />
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYyejJxZG9zaTNiM2tlYzRwNmlkNzlpOGo2ODNoZmt0anRsa3B4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksG8TldtQH57aylw8Y/giphy.gif
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYyejJxZG9zaTNiM2tlYzRwNmlkNzlpOGo2ODNoZmt0anRsa3B4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksG8TldtQH57aylw8Y/giphy.gif"/>
 
 ###
 
