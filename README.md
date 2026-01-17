@@ -1,12 +1,9 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi 👋!;I'm+ruby%2C+a+computer+engineering_student+and+a+junior+penetration+tester+%E2%9C%A9" width="70%" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=Hi+👋!;I'm+Ruby%2C+a+computer+engineering+student+and+a+junior+penetration+tester+✩"
+    width="70%"
+  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/vAK4R35tFc2A6oiplJ/giphy.gif"  />
-
-###
 
 <br><br>
 <pre>
@@ -16,6 +13,11 @@
     🛡️ Ceritifications : eJPT, Cisco Ethical Hacker, Google Cybersecurity Professional Certificate
 </pre>
 <br> 
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/vAK4R35tFc2A6oiplJ/giphy.gif"  />
+
+###
 
 <h3 align="left">✨ Projects</h3>
 <ul align="left">
