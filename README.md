@@ -13,9 +13,7 @@
     🛡️ Ceritifications : eJPT, Cisco Ethical Hacker, Google Cybersecurity Professional Certificate
 </pre>
 <br> 
-###
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYyejJxZG9zaTNiM2tlYzRwNmlkNzlpOGo2ODNoZmt0anRsa3B4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksG8TldtQH57aylw8Y/giphy.gif
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYyejJxZG9zaTNiM2tlYzRwNmlkNzlpOGo2ODNoZmt0anRsa3B4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksG8TldtQH57aylw8Y/giphy.gif"/>
 
 ###
