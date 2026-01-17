@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=Hi!i+am+Ruby%2C+a+computer+engineering+student+and+a+junior+pentester"
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=4000&pause=500&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=160&lines=Hi!+i'm+ruby;a+computer+engineering+student+%26+junior+pentester"
     width="70%"
   />
 </div>
