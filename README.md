@@ -20,7 +20,7 @@
 <h3 align="left">✨ Projects</h3>
 <ul align="left">
   <li><a href="https://github.com/NitchayaninT/post-quantum-cryptography-accelerator" target="_blank">Post-Quantum Cryptography Accelerator on FPGA</a></li>
-  <li><a href="https://github.com/NitchayaninT/programming-paradigms-group-project/tree/main" target="_blank">EGCO Survivors (Rogue-like shooter game)</a></li>
+  <li><a href="https://github.com/NitchayaninT/programming-paradigms-group-project/tree/main/src/main/java/Project3_6580081" target="_blank">EGCO Survivors (Rogue-like shooter game)</a></li>
   <li><a href="https://github.com/NitchayaninT/pqc-control-plane-in-quantum-networks" target="_blank">Post-Quantum Cryptography Secure Control Plane Design in Quantum Networks</a></li>
 </ul>
 
