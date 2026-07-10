@@ -10,7 +10,7 @@
 <img
   align="right"
   src="./assets/lohen-genshin-lohen.gif"
-  width="300"
+  width="250"
   alt="Genshin animation"
 />
 
@@ -22,7 +22,7 @@
       alt="Email"
     />
   </a>
-  <a href="https://www.linkedin.com/in/Nitchayanin-Thamkunanon/">
+  <a href="https://www.linkedin.com/in/nitchayanin-thamkunanon-0a7091321/">
     <img
       src="https://img.shields.io/badge/LinkedIn-C3A6FF?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn"
@@ -52,7 +52,15 @@
   <img src="https://img.shields.io/badge/Google%20Colab-6C4AB6?style=flat-square&logo=googlecolab&logoColor=white" />
 </p>
 
-<h2>✨ Featured Projects</h2>
+<h3>📜 Certifications</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/eJPT-C3A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity-Professional%20Certificate-C3A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-C3A6FF?style=flat-square" />
+</p>
+
+<h3>✨ Featured Projects</h3>
 <table>
   <tr>
     <td width="100%">
@@ -159,14 +167,6 @@
     </td>
   </tr>
 </table>
-
-<h3>📜 Certifications</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/eJPT-C3A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-Professional%20Certificate-C3A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-C3A6FF?style=flat-square" />
-</p>
 
 <h3 align="center">📈 Contribution Activity</h3>
 
