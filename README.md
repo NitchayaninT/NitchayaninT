@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=2100&color=C3A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=180&lines=Hi!+I'm+Ruby;a+Computer+Engineering+student;%26+an+aspiring+Cybersecurity+engineer"
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=2100&color=C3A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=180&lines=Hi!+I'm+Ruby;a+Computer+Engineering+student;%26+an+aspiring+Cybersecurity+engineer"
     alt="Typing introduction"
   />
 </div>
@@ -14,7 +14,7 @@
   alt="Genshin animation"
 />
 
-<h3>📫 Connect with Me</h3>
+<h3>📫 Contact Me</h3>
 <p>
   <a href="mailto:nichayanin@gmail.com">
     <img
@@ -22,16 +22,9 @@
       alt="Email"
     />
   </a>
-  <a href="https://www.linkedin.com/in/nitchayanin-thamkunanon-0a7091321/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-C3A6FF?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
 </p>
 
-
-<h3>🛡️ Cybersecurity</h3>
+<h3>🛡️ Cybersecurity Skills</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Security%20Operations-C3A6FF?style=flat-square" />
