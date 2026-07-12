@@ -65,8 +65,8 @@
   <tr>
     <td width="100%">
       <h3 align="center">
-        <a href="https://github.com/NitchayaninT/post-quantum-cryptography-accelerator">
-          Post-Quantum Cryptography Accelerator
+        <a href="https://github.com/NitchayaninT/kyber768-accelerator-on-fpga">
+          Kyber768 Post-Quantum Cryptography Accelerator
         </a>
       </h3>
       <p>
@@ -84,12 +84,12 @@
   <tr>
     <td width="100%">
       <h3 align="center">
-        <a href="https://github.com/NitchayaninT/tryhackme-labs">
-          TryHackMe Labs and Write-ups
+        <a href="https://github.com/NitchayaninT/tryhackme-challenges">
+          TryHackMe Challenges Walkthroughs
         </a>
       </h3>
       <p>
-        Documentation of hands-on cybersecurity labs covering reconnaissance,
+        Documentation of hands-on cybersecurity walkthroughs covering reconnaissance,
         exploitation, privilege escalation, and Linux and Windows security.
       </p>
       <p>
