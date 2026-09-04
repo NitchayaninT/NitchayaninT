@@ -9,29 +9,31 @@
 
 <img
   align="right"
-  src="./assets/lohen-genshin-lohen.gif"
-  width="250"
+  src="./assets/lohen-lohen-genshin.gif"
+  width="350"
   alt="Genshin animation"
 />
 
 <h3>📫 Contact Me</h3>
 <p>
-  <a href="mailto:nichayanin@gmail.com">
+  <a href="mailto:nitchayanin.tham@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-C3A6FF?style=flat-square&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-6C4AB6?style=flat-square&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
 </p>
 
-<h3>🛡️ Cybersecurity Skills</h3>
+<h3>🛡️ Interests</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Security%20Operations-C3A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network%20Architecture%20Design-C3A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security%20Operations(SOC)-C3A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Penetration%20Testing-C3A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Network%20Security-C3A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Post--Quantum%20Cryptography-C3A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Quantum%20Networks-C3A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network%20Protocols%20Design-C3A6FF?style=flat-square" />
 </p>
 
 <h3>💻 Languages, Tools, and Platforms</h3>
@@ -49,15 +51,15 @@
 
 <p>
   <img src="https://img.shields.io/badge/eJPT-C3A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-Professional%20Certificate-C3A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-C3A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-C3A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cisco%20Ethical%20Hacker-C3A6FF?style=flat-square" />
 </p>
 
 <h3>✨ Featured Projects</h3>
 <table>
   <tr>
     <td width="100%">
-      <h3 align="center">
+      <h3 align="left">
         <a href="https://github.com/NitchayaninT/kyber768-accelerator-on-fpga">
           Kyber768 Post-Quantum Cryptography Accelerator
         </a>
@@ -76,7 +78,7 @@
   </tr>
   <tr>
     <td width="100%">
-      <h3 align="center">
+      <h3 align="left">
         <a href="https://github.com/NitchayaninT/tryhackme-challenges">
           TryHackMe Challenges Walkthroughs
         </a>
@@ -96,7 +98,7 @@
   </tr>
   <tr>
     <td width="100%">
-      <h3 align="center">
+      <h3 align="left">
         <a href="https://github.com/NitchayaninT/programming-paradigms-group-project/tree/main/src/main/java/Project3_6580081">
           EGCO Survivors
         </a>
@@ -114,12 +116,12 @@
   </tr>
   <tr>
     <td width="100%">
-      <h3 align="center">
+      <h3 align="left">
         <a href="https://github.com/NitchayaninT/mental-health-risk-prediction">
           Mental Health Prediction Based on Social Media Usage
         </a>
       </h3>
-      <p align="center">
+      <p align="left">
         <b>🚧 In Progress</b>
       </p>
       <p>
@@ -140,33 +142,24 @@
   </tr>
   <tr>
     <td width="100%">
-      <h3 align="center">
-        <a href="https://github.com/NitchayaninT/pqc-secure-nv-repeater-control-plane">
-          Secure Quantum Repeater Control Plane
+      <h3 align="left">
+        <a href="https://github.com/NitchayaninT/qnet-message-class-security">
+          Message-Class-Aware Security for Multi-Hop Quantum Repeater Control Planes
         </a>
       </h3>
-      <p align="center">
+      <p align="left">
         <b>🚧 In Progress</b>
       </p>
       <p>
-        Design and evaluation of a post-quantum-secured classical control
-        plane for NV-center quantum repeater networks.
+        Security architecture for multi-hop quantum repeater control planes, assigning cryptographic mechanisms by message class, the project title is subject to change
       </p>
       <p>
         <code>PQC</code>
         <code>Quantum Networks</code>
         <code>Network Security</code>
+        <code>Network Protocols Design</code>
+        <code>Network Architecture Design</code>
       </p>
     </td>
   </tr>
 </table>
-
-<h3 align="center">📈 Contribution Activity</h3>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NitchayaninT&bg_color=00000000&color=C3A6FF&line=C3A6FF&point=FFFFFF&area=true&hide_border=true"
-    alt="Ruby's GitHub activity graph"
-  />
-</div>
-
