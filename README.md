@@ -7,13 +7,6 @@
 
 <br>
 
-<img
-  align="right"
-  src="./assets/lohen-lohen-genshin.gif"
-  width="350"
-  alt="Genshin animation"
-/>
-
 <h3>📫 Contact Me</h3>
 <p>
   <a href="mailto:nitchayanin.tham@gmail.com">
